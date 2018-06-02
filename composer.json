@@ -1,0 +1,19 @@
+{
+  "name": "ndreux/bully-card-game",
+  "authors": [
+    {
+      "name": "Nicolas Dreux"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Bully\\": ["src"]
+    }
+  },
+  "require": {
+    "php": ">= 7.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7.2"
+  }
+}
